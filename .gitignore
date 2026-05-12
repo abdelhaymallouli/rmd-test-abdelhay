@@ -1,0 +1,30 @@
+﻿# RMD internal dev meta-files — never push to public template
+CLAUDE.md
+plan.md
+memory.md
+.dev/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Figma backup
+*.fig.bak
+
+# Node (in case a candidate uses a build step locally)
+node_modules/
+dist/
+build/
+
+# Python (in case a candidate uses helper scripts)
+__pycache__/
+*.pyc
+.venv/
+venv/

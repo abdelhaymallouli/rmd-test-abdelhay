@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="80" viewBox="0 0 320 80">
+  <title>Atlas Coffee Tangier</title>
+  <desc>Wordmark logo for the fictional brand Atlas Coffee Tangier.</desc>
+  <!-- Coffee bean mark -->
+  <g transform="translate(8, 14)">
+    <ellipse cx="26" cy="26" rx="22" ry="26" fill="#B5482E"/>
+    <path d="M 26 4 Q 18 26 26 48" stroke="#F5EFE3" stroke-width="3" fill="none" stroke-linecap="round"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="68" y="38" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" fill="#1F1B16">ATLAS COFFEE</text>
+  <text x="68" y="60" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="13" font-weight="400" fill="#1F1B16" letter-spacing="3">T A N G I E R</text>
+</svg>
