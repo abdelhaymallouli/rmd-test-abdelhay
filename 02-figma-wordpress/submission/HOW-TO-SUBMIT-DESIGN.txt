@@ -1,5 +1,0 @@
-﻿Replace this file with your raw Figma file (`design.fig`).
-
-See the "Submitting your Figma file" section in ../brief.md for how to export a `.fig` from the Figma desktop app, and the public-link fallback if your file exceeds GitHub's 100 MB limit.
-
-Delete this `.txt` file once you commit your real `design.fig`.
